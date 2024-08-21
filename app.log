@@ -1,0 +1,6 @@
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data/\",\"status\":\"200\",\"responseTime\":\"1.301\"}","timestamp":"2024-08-21T19:58:05.393Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data/\",\"status\":\"200\",\"responseTime\":\"0.678\"}","timestamp":"2024-08-21T19:58:17.574Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data/\",\"status\":\"200\",\"responseTime\":\"0.284\"}","timestamp":"2024-08-21T19:58:18.343Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"GET\",\"url\":\"/data/\",\"status\":\"200\",\"responseTime\":\"0.649\"}","timestamp":"2024-08-21T19:58:37.177Z"}
+{"level":"\u001b[33mwarn\u001b[39m","message":"A Post request was made to add new Data at /data","timestamp":"2024-08-21T20:01:36.056Z"}
+{"level":"\u001b[32minfo\u001b[39m","message":"{\"method\":\"POST\",\"url\":\"/data/\",\"status\":\"200\",\"responseTime\":\"3.509\"}","timestamp":"2024-08-21T20:01:36.060Z"}
